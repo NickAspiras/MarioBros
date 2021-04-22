@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="1">
+ <tileset firstgid="1" source="NES - Super Mario Bros 3 - Stage Tiles.tsx"/>
+ <layer id="1" name="Background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6HzL6nqpmI/SFg1VVVVVVVVVVVVVVXVxweh29tZ
+  </data>
+ </layer>
+ <layer id="2" name="Graphics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztmDtSwzAQhpeEHAAYOAIUQAklV4Ca5yWAMoHwuEJCzfMMDD3h1dLBmB44A+vBmiyL3rZjEfTP/JPYlj2Sdr+VbICoqGKVoN9yPqMzAnAD4Tgq6r8ogchvVNRfVQKR3xA0i57LPO94j2173z6V9fwoN63WAdbQ6/X+uQQivyFoG72TedfxHtv2vn0q6/k2CqWG0PpaVX9Okdsz9Dn6ePT7XAL2/C40ABYbv89HfsvVc+aitIHx3yTeqpvvERp0HodQQ2g/XGtskZLxe5TZRk1k91bCcOQ3POl4v8D4XxJfkXwwKYQ8VqldAzhQ+LBmP8ZQJePXRSm/e+iWB7/L2GZlQJwPs9oe+djCtnvE+zV/fm2l2quVqQcc16PCT4r5clm/qlYeftN49HLw28U2J5p2L3jttSC+Q5dNbqv2zA+GfJSph23viO89+TXt4cW4RK60Gj/HWgbTvDZx73vMV6jy5Zeym4df3Ro8jfM7Uxt+fmW5bZPXLYd8FN8phdPvlUXwa5J4v+qRX5ovqvevPOK1ifteMV+mWsTXZJ81uoPuZv9lMV5iVonG3uf9t0nYzcNv+qtbg4vad4espiS3bfK6Z8hHmiuiTp+Rek1zmvPNWadK87zdkJuK13ieL6r9m+xZJun6z2uWar50kjFh4oTOv1AC/W/DPMacXc4vPaaxt/n+zPvC+eW55sKvK4+mffdf5JfPJc9rGSNjGLNx9AR6Ej3F1swE+nF8x2sfxJ/ZvcL8Om+banN08NaJzomu/3zMqvlS6Qj0/IrzPEZ0/nlMeO2SscsZpsc09mJsOn75OZ5zvIaa+OXM2vIo7hsWfqtgwtfrFbiKObuGb+uuqa5X7VD7Naz+As7mla8=
+  </data>
+ </layer>
+ <objectgroup id="3" name="Ground"/>
+ <objectgroup id="5" name="Pipes"/>
+ <objectgroup id="6" name="Coins"/>
+ <objectgroup id="7" name="Object Layer 4"/>
+</map>

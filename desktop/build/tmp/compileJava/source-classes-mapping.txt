@@ -1,0 +1,2 @@
+com/nickaspiras/mariobros/desktop/DesktopLauncher.java
+ com.nickaspiras.mariobros.desktop.DesktopLauncher
